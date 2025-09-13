@@ -27,4 +27,7 @@ In pathfinding, BFS guarantees finding the shortest path in an unweighted graph.
 - Python 3 or higher
 - PyGame library
 
+---
+## Screenshot
+![OuputImage](output1.png)
 
